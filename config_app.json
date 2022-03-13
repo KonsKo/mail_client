@@ -1,0 +1,26 @@
+{
+
+  "app":{
+    "host": "127.0.0.11",
+    "port": 8088
+  },
+
+  "logger": {
+    "path": "/home/cat2/PycharmProjects/MAIL_webapp/webapp/",
+    "level": "DEBUG"
+  },
+
+  "db": {
+    "user": "google",
+    "password": "google",
+    "database": "google_db",
+    "hostname": "10.1.38.34",
+    "port": "5432"
+  },
+
+  "smtp": {
+    "host": "10.1.38.34",
+    "port": 25,
+    "domain": ""
+  }
+}

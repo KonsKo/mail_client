@@ -1,0 +1,12 @@
+aiohttp==3.8.1
+aiohttp-security==0.4.0
+aiohttp-session==2.10.0
+aiosmtplib==1.1.6
+alembic==1.7.5
+asyncpg==0.25.0
+passlib==1.7.4
+psycopg2-binary==2.9.3
+pydantic==1.9.0
+SQLAlchemy==1.4.29
+pyjwt==2.3.
+python-socketio==5.5.1

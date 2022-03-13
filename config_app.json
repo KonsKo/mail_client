@@ -6,20 +6,20 @@
   },
 
   "logger": {
-    "path": "/home/cat2/PycharmProjects/MAIL_webapp/webapp/",
+    "path": "",
     "level": "DEBUG"
   },
 
   "db": {
-    "user": "google",
-    "password": "google",
-    "database": "google_db",
-    "hostname": "10.1.38.34",
+    "user": "",
+    "password": "",
+    "database": "",
+    "hostname": "",
     "port": "5432"
   },
 
   "smtp": {
-    "host": "10.1.38.34",
+    "host": "",
     "port": 25,
     "domain": ""
   }
